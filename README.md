@@ -44,7 +44,23 @@ The notebook includes:
 - **Boxplots** comparing variables across continents and regions  
 - **Scatterplots** showing relationships (e.g., GNP vs Life Expectancy)  
 - **Heatmaps** of correlations among numerical features  
-- **Top-N analysis** (most populated countries, etc.)  
+- **Top-N analysis** (most populated countries, etc.)
+
+
+
+## 📸 Sample Plots  
+
+### Life Expectancy Distribution  
+![Life Expectancy Distribution](life_expectancy_distribution.png)  
+
+### Population vs GNP (log-log scale)  
+![Population vs GNP](pop_vs_gnp.png)  
+
+### Correlation Heatmap  
+![Correlation Heatmap](heatmap.png)  
+
+### Life Expectancy by Continent (Boxplot)  
+![Life Expectancy by Continent](avg_life_Expectancy.png)  
 
 📌 Dependencies
 
